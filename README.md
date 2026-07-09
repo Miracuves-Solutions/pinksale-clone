@@ -29,10 +29,10 @@ Demo credentials for all environments: **[miracuves.com/pinksale-clone → Demo 
 Most launchpad scripts stop at "tier + claim." This platform ships with the features that actually run a token-sale *business*:
 
 - **Tier-Based Allocation** — stake-platform-token → get tier → get allocation — same mechanics that BSCPad and Polkastarter built on
-- **Multi-Chain Pools** — 
-- **Automated Vesting** — BSC, Ethereum, Polygon, Solana, Base — one codebase deploys to all
-- **Anti-Bot Protection** — integrated KYC providers so projects can pass jurisdictional checks without leaving the platform
-- **KYC-as-a-Service** — wallet-level checks, CAPTCHA, queue-based allocation to neutralize bot snipes
+- **Multi-Chain Pools** — BSC, Ethereum, Polygon, Solana, Base — one codebase deploys to all
+- **Automated Vesting** — linear, cliff, milestone-based — schedules run on-chain with auditor-friendly proof
+- **Anti-Bot Protection** — wallet-level checks, CAPTCHA, queue-based allocation to neutralize bot snipes
+- **KYC-as-a-Service** — integrated KYC providers so projects can pass jurisdictional checks without leaving the platform
 
 ## 📦 Core Features
 
