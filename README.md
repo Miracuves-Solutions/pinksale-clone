@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$3,099**, transparent on the [solution page](https://miracuves.com/pinksale-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$2,499**, transparent on the [solution page](https://miracuves.com/pinksale-clone/#pricing) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -109,7 +109,7 @@ TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 {MX_NAME}         MXIco
 {CATEGORY}        Crypto IDO Launchpad & Token Sale Platform
 {DEMO_WEB}        mxico.mimeld.com
-{PRICE}           $3,099
+{PRICE}           $2,499
 {SLUG}            pinksale-clone
 {SOLUTION_URL}    https://miracuves.com/pinksale-clone/
 {VERTICAL}        crypto_launchpad
